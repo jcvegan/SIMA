@@ -1,0 +1,1361 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/77/trunk/SIMA/SIMA.Sql
+END
+T_C_MovimientosEquipoSelectAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_MovimientosEquipoSelectAllById_Estado.sql
+END
+T_C_DetalleOrdenDeTrabajoSelectAllById_Solicitud.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_DetalleOrdenDeTrabajoSelectAllById_Solicitud.sql
+END
+T_C_ProductoSelect.sql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_ProductoSelect.sql
+END
+T_C_DetalleSolicitudDeleteAllById_Equipo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_DetalleSolicitudDeleteAllById_Equipo.sql
+END
+T_C_AreaSelectAll.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_AreaSelectAll.sql
+END
+T_C_EquipoSelectAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_EquipoSelectAllById_Estado.sql
+END
+T_C_EquipoSelectAllById_Modelo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_EquipoSelectAllById_Modelo.sql
+END
+T_C_ModeloInsert.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_ModeloInsert.sql
+END
+T_C_EstadoInsert.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_EstadoInsert.sql
+END
+T_C_DetalleOrdenDeTrabajoSelectAll.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_DetalleOrdenDeTrabajoSelectAll.sql
+END
+T_C_TipoMantenimientoPorEquipoSelect.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TipoMantenimientoPorEquipoSelect.sql
+END
+T_C_MantenimientoDeleteAllById_TurnoMantenimiento.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_MantenimientoDeleteAllById_TurnoMantenimiento.sql
+END
+T_C_MovimientosEquipoDelete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_MovimientosEquipoDelete.sql
+END
+T_C_ModeloSelectAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_ModeloSelectAllById_Estado.sql
+END
+T_C_IncidenciaSelectAll.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_IncidenciaSelectAll.sql
+END
+T_C_PermisosXPerfilDeleteAllById_Perfil.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_PermisosXPerfilDeleteAllById_Perfil.sql
+END
+T_C_PerfilSelectAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_PerfilSelectAllById_Estado.sql
+END
+T_C_ModeloUpdate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_ModeloUpdate.sql
+END
+T_C_EstadoUpdate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_EstadoUpdate.sql
+END
+T_C_SolicitudDeleteAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_SolicitudDeleteAllById_Estado.sql
+END
+T_C_TurnoMantenimientoDelete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TurnoMantenimientoDelete.sql
+END
+T_C_TablaSelect.sql
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TablaSelect.sql
+END
+T_C_TipoMantenimientoDelete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TipoMantenimientoDelete.sql
+END
+T_C_MantenimientoSelectAllById_TurnoMantenimiento.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_MantenimientoSelectAllById_TurnoMantenimiento.sql
+END
+T_C_UsuarioSelect.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_UsuarioSelect.sql
+END
+T_C_TurnoMantenimientoSelectAll.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TurnoMantenimientoSelectAll.sql
+END
+T_C_PedidoInsert.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_PedidoInsert.sql
+END
+T_C_AlertaDeleteAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_AlertaDeleteAllById_Estado.sql
+END
+T_C_AlertaSelectAllById_Equipo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_AlertaSelectAllById_Equipo.sql
+END
+T_C_PedidoSelectAllById_Mantenimiento.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_PedidoSelectAllById_Mantenimiento.sql
+END
+T_C_MantenimientoDeleteAllById_Incidencia.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_MantenimientoDeleteAllById_Incidencia.sql
+END
+T_C_AlertaSelectAll.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_AlertaSelectAll.sql
+END
+T_C_PedidoUpdate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_PedidoUpdate.sql
+END
+T_C_PermisoSelectAll.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_PermisoSelectAll.sql
+END
+T_C_ProductoSelectAllById_Requerimiento.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_ProductoSelectAllById_Requerimiento.sql
+END
+T_C_PerfilSelectAll.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_PerfilSelectAll.sql
+END
+T_C_OrdenTrabajoSelectAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_OrdenTrabajoSelectAllById_Estado.sql
+END
+T_C_MarcaSelectAll.sql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_MarcaSelectAll.sql
+END
+T_C_UsuarioSelectAllById_TurnoMantenimiento_Id_Trabajador.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_UsuarioSelectAllById_TurnoMantenimiento_Id_Trabajador.sql
+END
+T_C_MantenimientoSelectAllById_Incidencia.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_MantenimientoSelectAllById_Incidencia.sql
+END
+T_C_DetalleOrdenDeTrabajoSelect.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_DetalleOrdenDeTrabajoSelect.sql
+END
+T_C_PedidoDeleteAllById_Mantenimiento.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_PedidoDeleteAllById_Mantenimiento.sql
+END
+T_C_PerfilSelect.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_PerfilSelect.sql
+END
+T_C_MovimientosEquipoInsert.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_MovimientosEquipoInsert.sql
+END
+T_C_ProductoDelete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_ProductoDelete.sql
+END
+T_C_TrabajoSelectAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TrabajoSelectAllById_Estado.sql
+END
+T_C_TurnoMantenimientoInsert.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TurnoMantenimientoInsert.sql
+END
+T_C_MantenimientoDeleteAllById_OrdenTrabajo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_MantenimientoDeleteAllById_OrdenTrabajo.sql
+END
+T_C_IncidenciaSelect.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_IncidenciaSelect.sql
+END
+T_C_ProductoSelectAll.sql
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_ProductoSelectAll.sql
+END
+T_C_RequerimientoSelect.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_RequerimientoSelect.sql
+END
+T_C_TipoMantenimientoInsert.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TipoMantenimientoInsert.sql
+END
+T_C_TipoMantenimientoPorEquipoDelete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TipoMantenimientoPorEquipoDelete.sql
+END
+T_C_EquipoSelectAllById_Area.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_EquipoSelectAllById_Area.sql
+END
+T_C_ProductoDeleteAllById_Requerimiento.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_ProductoDeleteAllById_Requerimiento.sql
+END
+T_C_RequerimientoDeleteAllById_Equipo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_RequerimientoDeleteAllById_Equipo.sql
+END
+T_C_MovimientosEquipoUpdate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_MovimientosEquipoUpdate.sql
+END
+T_C_SolicitudSelect.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_SolicitudSelect.sql
+END
+T_C_TurnoMantenimientoSelectAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TurnoMantenimientoSelectAllById_Estado.sql
+END
+T_C_TipoMantenimientoPorEquipoSelectAll.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TipoMantenimientoPorEquipoSelectAll.sql
+END
+T_C_DetalleOrdenDeTrabajoDeleteAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_DetalleOrdenDeTrabajoDeleteAllById_Estado.sql
+END
+T_C_TrabajoSelectAllById_Producto.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TrabajoSelectAllById_Producto.sql
+END
+T_C_TurnoMantenimientoUpdate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TurnoMantenimientoUpdate.sql
+END
+T_C_TipoMantenimientoPorEquipoSelectAllById_Tipo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TipoMantenimientoPorEquipoSelectAllById_Tipo.sql
+END
+T_C_TipoMantenimientoSelectAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TipoMantenimientoSelectAllById_Estado.sql
+END
+T_C_MarcaDeleteAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_MarcaDeleteAllById_Estado.sql
+END
+T_C_TablaDelete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TablaDelete.sql
+END
+T_C_TipoMantenimientoUpdate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TipoMantenimientoUpdate.sql
+END
+T_C_IncidenciaDeleteAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_IncidenciaDeleteAllById_Estado.sql
+END
+T_C_UsuarioDelete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_UsuarioDelete.sql
+END
+T_C_PermisosXPerfilDeleteAllById_Permiso.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_PermisosXPerfilDeleteAllById_Permiso.sql
+END
+T_C_TipoMantenimientoPorEquipoDeleteAllById_Equipo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TipoMantenimientoPorEquipoDeleteAllById_Equipo.sql
+END
+SIMA2008.sql
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/34/trunk/SIMA/SIMA.Sql/SIMA2008.sql
+END
+T_C_PermisoSelect.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_PermisoSelect.sql
+END
+T_C_UsuarioSelectAll.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_UsuarioSelectAll.sql
+END
+T_C_ProductoInsert.sql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_ProductoInsert.sql
+END
+T_C_PedidoDeleteAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_PedidoDeleteAllById_Estado.sql
+END
+T_C_RequerimientoSelectAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_RequerimientoSelectAllById_Estado.sql
+END
+T_C_MantenimientoDeleteAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_MantenimientoDeleteAllById_Estado.sql
+END
+T_C_DetalleOrdenDeTrabajoDeleteAllById_OrdenTrabajo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_DetalleOrdenDeTrabajoDeleteAllById_OrdenTrabajo.sql
+END
+T_C_TipoMantenimientoPorEquipoInsert.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TipoMantenimientoPorEquipoInsert.sql
+END
+T_C_DetalleSolicitudDeleteAllById_Solicitud.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_DetalleSolicitudDeleteAllById_Solicitud.sql
+END
+T_C_ProductoSelectAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_ProductoSelectAllById_Estado.sql
+END
+T_C_UsuarioDeleteAllById_TurnoMantenimiento_Id_Trabajador.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_UsuarioDeleteAllById_TurnoMantenimiento_Id_Trabajador.sql
+END
+T_C_MantenimientoDeleteAllById_TipoMantenimientoEquipo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_MantenimientoDeleteAllById_TipoMantenimientoEquipo.sql
+END
+T_C_DetalleOrdenDeTrabajoDelete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_DetalleOrdenDeTrabajoDelete.sql
+END
+T_C_PermisoDeleteAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_PermisoDeleteAllById_Estado.sql
+END
+T_C_EquipoSelect.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_EquipoSelect.sql
+END
+T_C_ProductoUpdate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_ProductoUpdate.sql
+END
+T_C_PerfilDelete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_PerfilDelete.sql
+END
+T_C_TipoMantenimientoPorEquipoSelectAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TipoMantenimientoPorEquipoSelectAllById_Estado.sql
+END
+T_C_EquipoSelectActivo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/59/trunk/SIMA/SIMA.Sql/T_C_EquipoSelectActivo.sql
+END
+T_C_AreaSelect.sql
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_AreaSelect.sql
+END
+T_C_TablaInsert.sql
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TablaInsert.sql
+END
+T_C_IncidenciaDelete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_IncidenciaDelete.sql
+END
+T_C_TipoMantenimientoPorEquipoUpdate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TipoMantenimientoPorEquipoUpdate.sql
+END
+T_C_RequerimientoDelete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_RequerimientoDelete.sql
+END
+T_C_UsuarioInsert.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_UsuarioInsert.sql
+END
+T_C_PermisosXPerfilDelete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_PermisosXPerfilDelete.sql
+END
+T_C_MovimientosEquipoSelectAllById_Equipo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_MovimientosEquipoSelectAllById_Equipo.sql
+END
+T_C_MovimientosEquipoDeleteAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_MovimientosEquipoDeleteAllById_Estado.sql
+END
+T_C_SolicitudDelete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_SolicitudDelete.sql
+END
+T_C_MarcaSelect.sql
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_MarcaSelect.sql
+END
+T_C_EstadoSelectAllById_Tabla.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_EstadoSelectAllById_Tabla.sql
+END
+T_C_EquipoDeleteAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_EquipoDeleteAllById_Estado.sql
+END
+T_C_EquipoDeleteAllById_Modelo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_EquipoDeleteAllById_Modelo.sql
+END
+T_C_EquipoSelectAllById_Equipo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_EquipoSelectAllById_Equipo.sql
+END
+T_C_TrabajoDeleteAllById_Producto.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TrabajoDeleteAllById_Producto.sql
+END
+T_C_TablaUpdate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TablaUpdate.sql
+END
+T_C_UsuarioSelectAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_UsuarioSelectAllById_Estado.sql
+END
+T_C_SolicitudSelectAll.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_SolicitudSelectAll.sql
+END
+T_C_UsuarioSelectAllById_Perfil.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_UsuarioSelectAllById_Perfil.sql
+END
+T_C_DetalleSolicitudSelect.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_DetalleSolicitudSelect.sql
+END
+T_C_PermisosXPerfilSelectAllById_Permiso.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_PermisosXPerfilSelectAllById_Permiso.sql
+END
+T_C_TurnoTrabajadorSelectAll.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TurnoTrabajadorSelectAll.sql
+END
+T_C_UsuarioUpdate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_UsuarioUpdate.sql
+END
+T_C_PermisoDelete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_PermisoDelete.sql
+END
+T_C_TurnoTrabajadorSelect.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TurnoTrabajadorSelect.sql
+END
+T_C_ModeloDeleteAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_ModeloDeleteAllById_Estado.sql
+END
+T_C_MantenimientoSelectAllById_OrdenTrabajo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_MantenimientoSelectAllById_OrdenTrabajo.sql
+END
+T_C_DetalleOrdenDeTrabajoInsert.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_DetalleOrdenDeTrabajoInsert.sql
+END
+T_C_PerfilDeleteAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_PerfilDeleteAllById_Estado.sql
+END
+T_C_TurnoTrabajadorDeleteAllById_TurnoMantenimiento.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TurnoTrabajadorDeleteAllById_TurnoMantenimiento.sql
+END
+T_C_PerfilInsert.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_PerfilInsert.sql
+END
+T_C_EstadoDeleteAllById_Tabla.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_EstadoDeleteAllById_Tabla.sql
+END
+T_C_MantenimientoSelect.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_MantenimientoSelect.sql
+END
+T_C_AreaSelectAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_AreaSelectAllById_Estado.sql
+END
+T_C_AlertaSelect.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_AlertaSelect.sql
+END
+T_C_OrdenTrabajoSelect.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_OrdenTrabajoSelect.sql
+END
+T_C_IncidenciaInsert.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_IncidenciaInsert.sql
+END
+T_C_DetalleSolicitudSelectAllById_Equipo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_DetalleSolicitudSelectAllById_Equipo.sql
+END
+T_C_RequerimientoInsert.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_RequerimientoInsert.sql
+END
+T_C_MantenimientoSelectAllById_TipoMantenimientoEquipo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_MantenimientoSelectAllById_TipoMantenimientoEquipo.sql
+END
+T_C_AlertaDeleteAllById_Equipo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_AlertaDeleteAllById_Equipo.sql
+END
+T_C_PermisosXPerfilInsert.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_PermisosXPerfilInsert.sql
+END
+T_C_DetalleOrdenDeTrabajoUpdate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_DetalleOrdenDeTrabajoUpdate.sql
+END
+T_C_DetalleOrdenDeTrabajoDeleteAllById_Solicitud.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_DetalleOrdenDeTrabajoDeleteAllById_Solicitud.sql
+END
+T_C_TurnoTrabajadorSelectAllById_TurnoMantenimiento.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TurnoTrabajadorSelectAllById_TurnoMantenimiento.sql
+END
+T_C_TrabajoSelect.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TrabajoSelect.sql
+END
+T_C_PerfilUpdate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_PerfilUpdate.sql
+END
+T_C_SolicitudInsert.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_SolicitudInsert.sql
+END
+T_C_EquipoDelete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_EquipoDelete.sql
+END
+T_C_IncidenciaUpdate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_IncidenciaUpdate.sql
+END
+T_C_AreaDelete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_AreaDelete.sql
+END
+T_C_RequerimientoUpdate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_RequerimientoUpdate.sql
+END
+T_C_TipoMantenimientoSelectAll.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TipoMantenimientoSelectAll.sql
+END
+T_C_OrdenTrabajoDeleteAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_OrdenTrabajoDeleteAllById_Estado.sql
+END
+T_C_PermisosXPerfilSelectAllById_Perfil.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_PermisosXPerfilSelectAllById_Perfil.sql
+END
+T_C_SolicitudSelectAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_SolicitudSelectAllById_Estado.sql
+END
+T_C_SolicitudUpdate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_SolicitudUpdate.sql
+END
+T_C_PermisoInsert.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_PermisoInsert.sql
+END
+T_C_TrabajoDeleteAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TrabajoDeleteAllById_Estado.sql
+END
+T_C_MarcaDelete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_MarcaDelete.sql
+END
+T_C_AlertaSelectAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_AlertaSelectAllById_Estado.sql
+END
+T_C_DetalleOrdenDeTrabajoSelectAllById_OrdenTrabajo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_DetalleOrdenDeTrabajoSelectAllById_OrdenTrabajo.sql
+END
+T_C_DetalleSolicitudDelete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_DetalleSolicitudDelete.sql
+END
+T_C_ModeloSelect.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_ModeloSelect.sql
+END
+T_C_EstadoSelect.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_EstadoSelect.sql
+END
+T_C_PermisoUpdate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_PermisoUpdate.sql
+END
+T_C_TurnoMantenimientoDeleteAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TurnoMantenimientoDeleteAllById_Estado.sql
+END
+T_C_TurnoTrabajadorDelete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TurnoTrabajadorDelete.sql
+END
+T_C_TipoMantenimientoDeleteAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TipoMantenimientoDeleteAllById_Estado.sql
+END
+T_C_EquipoInsert.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_EquipoInsert.sql
+END
+T_C_MantenimientoDelete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_MantenimientoDelete.sql
+END
+T_C_AlertaDelete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_AlertaDelete.sql
+END
+T_C_EquipoSelectAll.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_EquipoSelectAll.sql
+END
+T_C_OrdenTrabajoDelete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_OrdenTrabajoDelete.sql
+END
+T_C_AreaInsert.sql
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_AreaInsert.sql
+END
+T_C_MantenimientoSelectAll.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_MantenimientoSelectAll.sql
+END
+T_C_PedidoSelect.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_PedidoSelect.sql
+END
+T_C_OrdenTrabajoDeleteAllById_Usuario.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_OrdenTrabajoDeleteAllById_Usuario.sql
+END
+T_C_EquipoUpdate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_EquipoUpdate.sql
+END
+T_C_TrabajoDelete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TrabajoDelete.sql
+END
+T_C_MarcaInsert.sql
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_MarcaInsert.sql
+END
+T_C_DetalleSolicitudSelectAllById_Solicitud.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_DetalleSolicitudSelectAllById_Solicitud.sql
+END
+T_C_AreaUpdate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_AreaUpdate.sql
+END
+T_C_RequerimientoDeleteAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_RequerimientoDeleteAllById_Estado.sql
+END
+T_C_RequerimientoSelectAllById_Equipo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_RequerimientoSelectAllById_Equipo.sql
+END
+SIMA2005.sql
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8/trunk/SIMA/SIMA.Sql/SIMA2005.sql
+END
+T_C_TablaSelectAll.sql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TablaSelectAll.sql
+END
+T_C_TipoMantenimientoPorEquipoSelectActivo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/77/trunk/SIMA/SIMA.Sql/T_C_TipoMantenimientoPorEquipoSelectActivo.sql
+END
+T_C_DetalleOrdenDeTrabajoSelectAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_DetalleOrdenDeTrabajoSelectAllById_Estado.sql
+END
+T_C_DetalleSolicitudInsert.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_DetalleSolicitudInsert.sql
+END
+T_C_RequerimientoSelectAll.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_RequerimientoSelectAll.sql
+END
+T_C_ProductoDeleteAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_ProductoDeleteAllById_Estado.sql
+END
+T_C_ModeloSelectAllById_Marca.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_ModeloSelectAllById_Marca.sql
+END
+T_C_MarcaSelectAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_MarcaSelectAllById_Estado.sql
+END
+T_C_DetalleSolicitudSelectAll.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_DetalleSolicitudSelectAll.sql
+END
+T_C_MarcaUpdate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_MarcaUpdate.sql
+END
+T_C_IncidenciaSelectAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_IncidenciaSelectAllById_Estado.sql
+END
+T_C_TurnoTrabajadorInsert.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TurnoTrabajadorInsert.sql
+END
+T_C_TipoMantenimientoPorEquipoDeleteAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TipoMantenimientoPorEquipoDeleteAllById_Estado.sql
+END
+T_C_TipoMantenimientoPorEquipoSelectAllById_Equipo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TipoMantenimientoPorEquipoSelectAllById_Equipo.sql
+END
+T_C_MovimientosEquipoSelect.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_MovimientosEquipoSelect.sql
+END
+T_C_MantenimientoInsert.sql
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/69/trunk/SIMA/SIMA.Sql/T_C_MantenimientoInsert.sql
+END
+T_C_PedidoSelectAll.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_PedidoSelectAll.sql
+END
+T_C_AlertaInsert.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_AlertaInsert.sql
+END
+T_C_DetalleSolicitudUpdate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_DetalleSolicitudUpdate.sql
+END
+T_C_OrdenTrabajoInsert.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_OrdenTrabajoInsert.sql
+END
+T_C_TurnoMantenimientoSelect.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TurnoMantenimientoSelect.sql
+END
+T_C_MovimientosEquipoDeleteAllById_Equipo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_MovimientosEquipoDeleteAllById_Equipo.sql
+END
+T_C_ModeloDelete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_ModeloDelete.sql
+END
+T_C_EstadoDelete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_EstadoDelete.sql
+END
+T_C_OrdenTrabajoSelectAll.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_OrdenTrabajoSelectAll.sql
+END
+T_C_TipoMantenimientoSelect.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TipoMantenimientoSelect.sql
+END
+T_C_PedidoSelectAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_PedidoSelectAllById_Estado.sql
+END
+T_C_ModeloDeleteAllById_Marca.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_ModeloDeleteAllById_Marca.sql
+END
+T_C_MantenimientoSelectAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_MantenimientoSelectAllById_Estado.sql
+END
+T_C_TrabajoInsert.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TrabajoInsert.sql
+END
+T_C_ModeloSelectAll.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_ModeloSelectAll.sql
+END
+T_C_EquipoDeleteAllById_Equipo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_EquipoDeleteAllById_Equipo.sql
+END
+T_C_EstadoSelectAll.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_EstadoSelectAll.sql
+END
+T_C_MantenimientoUpdate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_MantenimientoUpdate.sql
+END
+T_C_UsuarioDeleteAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_UsuarioDeleteAllById_Estado.sql
+END
+T_C_AlertaUpdate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_AlertaUpdate.sql
+END
+T_C_TrabajoSelectAll.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TrabajoSelectAll.sql
+END
+T_C_UsuarioDeleteAllById_Perfil.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_UsuarioDeleteAllById_Perfil.sql
+END
+T_C_OrdenTrabajoUpdate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_OrdenTrabajoUpdate.sql
+END
+T_C_EquipoDeleteAllById_Area.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_EquipoDeleteAllById_Area.sql
+END
+T_C_PermisoSelectAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_PermisoSelectAllById_Estado.sql
+END
+T_C_OrdenTrabajoSelectAllById_Usuario.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_OrdenTrabajoSelectAllById_Usuario.sql
+END
+T_C_MovimientosEquipoSelectAll.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_MovimientosEquipoSelectAll.sql
+END
+T_C_TrabajoUpdate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TrabajoUpdate.sql
+END
+T_C_TipoMantenimientoPorEquipoDeleteAllById_Tipo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_TipoMantenimientoPorEquipoDeleteAllById_Tipo.sql
+END
+T_C_PedidoDelete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_PedidoDelete.sql
+END
+T_C_AreaDeleteAllById_Estado.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6/trunk/SIMA/SIMA.Sql/T_C_AreaDeleteAllById_Estado.sql
+END

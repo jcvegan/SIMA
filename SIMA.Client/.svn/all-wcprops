@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/87/trunk/SIMA/SIMA.Client
+END
+App.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/SIMA/SIMA.Client/App.xaml
+END
+App.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/SIMA/SIMA.Client/App.xaml.cs
+END
+SIMA.Client.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/84/trunk/SIMA/SIMA.Client/SIMA.Client.csproj
+END
+Window1.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/75/trunk/SIMA/SIMA.Client/Window1.xaml
+END
+Window1.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/86/trunk/SIMA/SIMA.Client/Window1.xaml.cs
+END

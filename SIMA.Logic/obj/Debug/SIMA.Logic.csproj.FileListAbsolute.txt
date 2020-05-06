@@ -1,0 +1,45 @@
+C:\Users\Juan\Desktop\TP 2010-I\TP 2010 II\SIMA TP\SIMA\SIMA.Logic\bin\Debug\SIMA.Logic.dll
+C:\Users\Juan\Desktop\TP 2010-I\TP 2010 II\SIMA TP\SIMA\SIMA.Logic\bin\Debug\SIMA.Logic.pdb
+C:\Users\Juan\Desktop\TP 2010-I\TP 2010 II\SIMA TP\SIMA\SIMA.Logic\bin\Debug\SIMA.DataAccess.dll
+C:\Users\Juan\Desktop\TP 2010-I\TP 2010 II\SIMA TP\SIMA\SIMA.Logic\bin\Debug\SIMA.Entities.dll
+C:\Users\Juan\Desktop\TP 2010-I\TP 2010 II\SIMA TP\SIMA\SIMA.Logic\bin\Debug\SIMA.Entities.pdb
+C:\Users\Juan\Desktop\TP 2010-I\TP 2010 II\SIMA TP\SIMA\SIMA.Logic\bin\Debug\SIMA.DataAccess.pdb
+C:\Users\Juan\Desktop\TP 2010-I\TP 2010 II\SIMA TP\SIMA\SIMA.Logic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Juan\Desktop\TP 2010-I\TP 2010 II\SIMA TP\SIMA\SIMA.Logic\obj\Debug\SIMA.Logic.dll
+C:\Users\Juan\Desktop\TP 2010-I\TP 2010 II\SIMA TP\SIMA\SIMA.Logic\obj\Debug\SIMA.Logic.pdb
+F:\SIMA\SIMA.Logic\bin\Debug\SIMA.Logic.dll
+F:\SIMA\SIMA.Logic\bin\Debug\SIMA.Logic.pdb
+F:\SIMA\SIMA.Logic\bin\Debug\SIMA.DataAccess.dll
+F:\SIMA\SIMA.Logic\bin\Debug\SIMA.Entities.dll
+F:\SIMA\SIMA.Logic\bin\Debug\SIMA.Entities.pdb
+F:\SIMA\SIMA.Logic\bin\Debug\SIMA.DataAccess.pdb
+F:\SIMA\SIMA.Logic\obj\Debug\ResolveAssemblyReference.cache
+F:\SIMA\SIMA.Logic\obj\Debug\SIMA.Logic.dll
+F:\SIMA\SIMA.Logic\obj\Debug\SIMA.Logic.pdb
+G:\SIMA\SIMA.Logic\bin\Debug\SIMA.Logic.dll
+G:\SIMA\SIMA.Logic\bin\Debug\SIMA.Logic.pdb
+G:\SIMA\SIMA.Logic\bin\Debug\SIMA.DataAccess.dll
+G:\SIMA\SIMA.Logic\bin\Debug\SIMA.Entities.dll
+G:\SIMA\SIMA.Logic\bin\Debug\SIMA.Entities.pdb
+G:\SIMA\SIMA.Logic\bin\Debug\SIMA.DataAccess.pdb
+G:\SIMA\SIMA.Logic\obj\Debug\ResolveAssemblyReference.cache
+G:\SIMA\SIMA.Logic\obj\Debug\SIMA.Logic.dll
+G:\SIMA\SIMA.Logic\obj\Debug\SIMA.Logic.pdb
+I:\SIMA\SIMA.Logic\bin\Debug\SIMA.Logic.dll
+I:\SIMA\SIMA.Logic\bin\Debug\SIMA.Logic.pdb
+I:\SIMA\SIMA.Logic\bin\Debug\SIMA.DataAccess.dll
+I:\SIMA\SIMA.Logic\bin\Debug\SIMA.Entities.dll
+I:\SIMA\SIMA.Logic\bin\Debug\SIMA.Entities.pdb
+I:\SIMA\SIMA.Logic\bin\Debug\SIMA.DataAccess.pdb
+I:\SIMA\SIMA.Logic\obj\Debug\ResolveAssemblyReference.cache
+I:\SIMA\SIMA.Logic\obj\Debug\SIMA.Logic.dll
+I:\SIMA\SIMA.Logic\obj\Debug\SIMA.Logic.pdb
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Logic\bin\Debug\SIMA.Logic.dll
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Logic\bin\Debug\SIMA.Logic.pdb
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Logic\bin\Debug\SIMA.DataAccess.dll
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Logic\bin\Debug\SIMA.Entities.dll
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Logic\bin\Debug\SIMA.Entities.pdb
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Logic\bin\Debug\SIMA.DataAccess.pdb
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Logic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Logic\obj\Debug\SIMA.Logic.dll
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Logic\obj\Debug\SIMA.Logic.pdb

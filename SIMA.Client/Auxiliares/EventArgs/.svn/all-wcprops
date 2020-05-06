@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/49/trunk/SIMA/SIMA.Client/Auxiliares/EventArgs
+END
+EquipoPadreEventArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/49/trunk/SIMA/SIMA.Client/Auxiliares/EventArgs/EquipoPadreEventArgs.cs
+END
+DetalleOrdenTrabajoEventArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/34/trunk/SIMA/SIMA.Client/Auxiliares/EventArgs/DetalleOrdenTrabajoEventArgs.cs
+END

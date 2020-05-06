@@ -1,0 +1,102 @@
+G:\SIMA\SIMA.Client\obj\Debug\ResolveAssemblyReference.cache
+G:\SIMA\SIMA.Client\obj\Debug\Auxiliares\frmSelectorEquipo.baml
+G:\SIMA\SIMA.Client\obj\Debug\Auxiliares\frmSelectorEquipos.baml
+G:\SIMA\SIMA.Client\obj\Debug\Gestion\frmConsultarEquiposaMantener.baml
+G:\SIMA\SIMA.Client\obj\Debug\Gestion\frmGestionarAreas.baml
+G:\SIMA\SIMA.Client\obj\Debug\Gestion\frmGestionarEquipos.baml
+G:\SIMA\SIMA.Client\obj\Debug\Gestion\frmGestionarEstados.baml
+G:\SIMA\SIMA.Client\obj\Debug\Gestion\frmGestionarMarca.baml
+G:\SIMA\SIMA.Client\obj\Debug\Gestion\frmGestionarModelos.baml
+G:\SIMA\SIMA.Client\obj\Debug\Gestion\frmGestionarPerfiles.baml
+G:\SIMA\SIMA.Client\obj\Debug\Gestion\frmGestionarTablas.baml
+G:\SIMA\SIMA.Client\obj\Debug\Gestion\frmGestionarTipoMantenimiento.baml
+G:\SIMA\SIMA.Client\obj\Debug\Orden de Trabajo\frmGestionarOrdendeTrabajo.baml
+G:\SIMA\SIMA.Client\obj\Debug\Seguridad\frmIniciarSesion.baml
+G:\SIMA\SIMA.Client\obj\Debug\Trabajos de Mantenimiento\frmGestionarSolicitud.baml
+G:\SIMA\SIMA.Client\obj\Debug\Window1.baml
+G:\SIMA\SIMA.Client\obj\Debug\Auxiliares\frmSelectorEquipo.g.cs
+G:\SIMA\SIMA.Client\obj\Debug\Auxiliares\frmSelectorEquipos.g.cs
+G:\SIMA\SIMA.Client\obj\Debug\Gestion\frmConsultarEquiposaMantener.g.cs
+G:\SIMA\SIMA.Client\obj\Debug\Gestion\frmGestionarAreas.g.cs
+G:\SIMA\SIMA.Client\obj\Debug\Gestion\frmGestionarEquipos.g.cs
+G:\SIMA\SIMA.Client\obj\Debug\Gestion\frmGestionarEstados.g.cs
+G:\SIMA\SIMA.Client\obj\Debug\Gestion\frmGestionarMarca.g.cs
+G:\SIMA\SIMA.Client\obj\Debug\Gestion\frmGestionarModelos.g.cs
+G:\SIMA\SIMA.Client\obj\Debug\Gestion\frmGestionarPerfiles.g.cs
+G:\SIMA\SIMA.Client\obj\Debug\Gestion\frmGestionarTablas.g.cs
+G:\SIMA\SIMA.Client\obj\Debug\Gestion\frmGestionarTipoMantenimiento.g.cs
+G:\SIMA\SIMA.Client\obj\Debug\Orden de Trabajo\frmGestionarOrdendeTrabajo.g.cs
+G:\SIMA\SIMA.Client\obj\Debug\Seguridad\frmIniciarSesion.g.cs
+G:\SIMA\SIMA.Client\obj\Debug\Trabajos de Mantenimiento\frmGestionarSolicitud.g.cs
+G:\SIMA\SIMA.Client\obj\Debug\Window1.g.cs
+G:\SIMA\SIMA.Client\obj\Debug\App.g.cs
+G:\SIMA\SIMA.Client\obj\Debug\SIMA.Client_MarkupCompile.cache
+G:\SIMA\SIMA.Client\obj\Debug\SIMA.Client.g.resources
+G:\SIMA\SIMA.Client\obj\Debug\SIMA.Client.Properties.Resources.resources
+G:\SIMA\SIMA.Client\obj\Debug\SIMA.Client.csproj.GenerateResource.Cache
+G:\SIMA\SIMA.Client\bin\Debug\SIMA.Client.exe
+G:\SIMA\SIMA.Client\bin\Debug\SIMA.Client.pdb
+G:\SIMA\SIMA.Client\bin\Debug\SIMA.Entities.dll
+G:\SIMA\SIMA.Client\bin\Debug\SIMA.Logic.dll
+G:\SIMA\SIMA.Client\bin\Debug\Telerik.Windows.Controls.Charting.dll
+G:\SIMA\SIMA.Client\bin\Debug\Telerik.Windows.Controls.Data.dll
+G:\SIMA\SIMA.Client\bin\Debug\Telerik.Windows.Controls.DataVisualization.dll
+G:\SIMA\SIMA.Client\bin\Debug\Telerik.Windows.Controls.dll
+G:\SIMA\SIMA.Client\bin\Debug\Telerik.Windows.Controls.Docking.dll
+G:\SIMA\SIMA.Client\bin\Debug\Telerik.Windows.Controls.Gauge.dll
+G:\SIMA\SIMA.Client\bin\Debug\Telerik.Windows.Controls.GridView.dll
+G:\SIMA\SIMA.Client\bin\Debug\Telerik.Windows.Controls.Input.dll
+G:\SIMA\SIMA.Client\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+G:\SIMA\SIMA.Client\bin\Debug\Telerik.Windows.Controls.RibbonBar.dll
+G:\SIMA\SIMA.Client\bin\Debug\Telerik.Windows.Controls.Scheduler.dll
+G:\SIMA\SIMA.Client\bin\Debug\Telerik.Windows.Data.dll
+G:\SIMA\SIMA.Client\bin\Debug\SIMA.DataAccess.dll
+G:\SIMA\SIMA.Client\bin\Debug\SIMA.Logic.pdb
+G:\SIMA\SIMA.Client\bin\Debug\SIMA.DataAccess.pdb
+G:\SIMA\SIMA.Client\bin\Debug\SIMA.Entities.pdb
+G:\SIMA\SIMA.Client\obj\Debug\SIMA.Client.exe
+G:\SIMA\SIMA.Client\obj\Debug\SIMA.Client.pdb
+G:\SIMA\SIMA.Client\obj\Debug\Trabajos de Mantenimiento\frmAsignarEquiposAMantener.baml
+G:\SIMA\SIMA.Client\obj\Debug\Trabajos de Mantenimiento\frmAsignarEquiposAMantener.g.cs
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\Auxiliares\frmSelectorEquipo.baml
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\Auxiliares\frmSelectorEquipos.baml
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\Gestion\frmConsultarEquiposaMantener.baml
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\Gestion\frmGestionarAreas.baml
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\Gestion\frmGestionarEquipos.baml
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\Gestion\frmGestionarEstados.baml
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\Gestion\frmGestionarMarca.baml
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\Gestion\frmGestionarModelos.baml
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\Gestion\frmGestionarPerfiles.baml
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\Gestion\frmGestionarTablas.baml
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\Gestion\frmGestionarTipoMantenimiento.baml
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\Orden de Trabajo\frmGestionarOrdendeTrabajo.baml
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\Seguridad\frmIniciarSesion.baml
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\Trabajos de Mantenimiento\frmAsignarEquiposAMantener.baml
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\Trabajos de Mantenimiento\frmGestionarSolicitud.baml
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\Window1.baml
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\Auxiliares\frmSelectorEquipo.g.cs
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\Auxiliares\frmSelectorEquipos.g.cs
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\Gestion\frmConsultarEquiposaMantener.g.cs
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\Gestion\frmGestionarAreas.g.cs
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\Gestion\frmGestionarEquipos.g.cs
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\Gestion\frmGestionarEstados.g.cs
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\Gestion\frmGestionarMarca.g.cs
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\Gestion\frmGestionarModelos.g.cs
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\Gestion\frmGestionarPerfiles.g.cs
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\Gestion\frmGestionarTablas.g.cs
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\Gestion\frmGestionarTipoMantenimiento.g.cs
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\Orden de Trabajo\frmGestionarOrdendeTrabajo.g.cs
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\Seguridad\frmIniciarSesion.g.cs
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\Trabajos de Mantenimiento\frmAsignarEquiposAMantener.g.cs
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\Trabajos de Mantenimiento\frmGestionarSolicitud.g.cs
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\Window1.g.cs
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\App.g.cs
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\SIMA.Client_MarkupCompile.cache
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\SIMA.Client.g.resources
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\SIMA.Client.Properties.Resources.resources
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\SIMA.Client.csproj.GenerateResource.Cache
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\SIMA.Client.exe
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\SIMA.Client.pdb
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\Trabajos de Mantenimiento\frmCerrarMantenimiento.baml
+C:\Users\Alberto\Documents\SIMA TP 2010\SIMA\SIMA.Client\obj\Debug\Trabajos de Mantenimiento\frmCerrarMantenimiento.g.cs

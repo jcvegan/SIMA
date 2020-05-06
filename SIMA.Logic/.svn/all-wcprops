@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/85/trunk/SIMA/SIMA.Logic
+END
+TipoMantenimientoDataLogic.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/44/trunk/SIMA/SIMA.Logic/TipoMantenimientoDataLogic.cs
+END
+TipoMantenimientoPorEquipoDataLogic.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/76/trunk/SIMA/SIMA.Logic/TipoMantenimientoPorEquipoDataLogic.cs
+END
+MantenimientoDataLogic.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/78/trunk/SIMA/SIMA.Logic/MantenimientoDataLogic.cs
+END
+AreaDataLogic.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/33/trunk/SIMA/SIMA.Logic/AreaDataLogic.cs
+END
+SIMA.Logic.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/85/trunk/SIMA/SIMA.Logic/SIMA.Logic.csproj
+END
+OrdenTrabajoDataLogic.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/81/trunk/SIMA/SIMA.Logic/OrdenTrabajoDataLogic.cs
+END
+Class1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/SIMA/SIMA.Logic/Class1.cs
+END
+ModeloDataLogic.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/43/trunk/SIMA/SIMA.Logic/ModeloDataLogic.cs
+END
+EstadoDataLogic.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/19/trunk/SIMA/SIMA.Logic/EstadoDataLogic.cs
+END
+PerfilDataLogic.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/35/trunk/SIMA/SIMA.Logic/PerfilDataLogic.cs
+END
+MarcaDataLogic.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/43/trunk/SIMA/SIMA.Logic/MarcaDataLogic.cs
+END
+TablaDataLogic.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12/trunk/SIMA/SIMA.Logic/TablaDataLogic.cs
+END
+UsuarioDataLogic.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/67/trunk/SIMA/SIMA.Logic/UsuarioDataLogic.cs
+END
+TurnoMantenimientoDataLogic.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/85/trunk/SIMA/SIMA.Logic/TurnoMantenimientoDataLogic.cs
+END
+SolicitudDataLogic.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/48/trunk/SIMA/SIMA.Logic/SolicitudDataLogic.cs
+END
+EquipoDataLogic.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/80/trunk/SIMA/SIMA.Logic/EquipoDataLogic.cs
+END
